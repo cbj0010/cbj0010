@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-  🐳 Github status 
+  🐰 Github status 🐰
 </div>
 <br>
 
