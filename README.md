@@ -1,13 +1,12 @@
 <h2>Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m YoonJung </h2>
 
-### Self-introduction
 <h4>
 	<span>😊 Hello, I am a grows🌱 developer
-		<br>now AndroidDeveloper😊
+		
 	<a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcbj0010count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </h3>
 
-- Name : Yoon Jung
+- Android Developer
 
 ## 📌 Projects
 - Android - [NOTTODO](https://github.com/DO-NOTTO-DO/AOS-NOTTODO) : 목표, 할일에 집중하기 위한 나만의 환경 관리
