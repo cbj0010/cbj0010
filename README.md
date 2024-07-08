@@ -1,6 +1,5 @@
 <h2>Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m YoonJung </h2>
 
-
 ### Self-introduction
 <h4>
 	<span>😊 Hello, I am a grows🌱 developer
@@ -9,11 +8,9 @@
 
 - Name : Yoon Jung
 
-<hr>
-<h4>
-	<span>🌱 I’m currently learning Android</span></br>
-</h4>
-<hr>
+## 📌 Projects
+- Android - [NOTTODO](https://github.com/DO-NOTTO-DO/AOS-NOTTODO) : 목표, 할일에 집중하기 위한 나만의 환경 관리
+- Android - [RecorDream](https://github.com/TeamRecorDream/RecorDream-AOS) : 꿈 기록관리
 
 <div align="center">
   🦥 Android Tech Stack 🦥
