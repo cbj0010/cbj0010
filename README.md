@@ -8,8 +8,8 @@
 - Android Developer
 
 ## 📌 Projects
-- Android - [NOTTODO](https://github.com/DO-NOTTO-DO/AOS-NOTTODO) : 목표, 할일에 집중하기 위한 나만의 환경 관리
-- Android - [RecorDream](https://github.com/TeamRecorDream/RecorDream-AOS) : 꿈 기록관리
+- [Android](https://play.google.com/store/apps/details?id=kr.co.nottodo&pcampaignid=web_share) - [NOTTODO](https://github.com/DO-NOTTO-DO/AOS-NOTTODO) : 목표, 할일에 집중하기 위한 나만의 환경 관리
+- [Android](https://play.google.com/store/apps/details?id=com.team.recordream&pcampaignid=web_share) - [RecorDream](https://github.com/TeamRecorDream/RecorDream-AOS) : 꿈 기록관리
 <hr>
 <div align="center">
   🦥 Android Tech Stack 🦥
