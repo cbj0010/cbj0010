@@ -6,6 +6,7 @@
 </h3>
 
 - Android Developer
+- FrontEnd Developer
 
 ## 📌 Projects
 - [Android](https://play.google.com/store/apps/details?id=kr.co.nottodo&pcampaignid=web_share) - [NOTTODO](https://github.com/DO-NOTTO-DO/AOS-NOTTODO) : 목표, 할일에 집중하기 위한 나만의 환경 관리
